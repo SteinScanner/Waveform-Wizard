@@ -32,7 +32,8 @@ Features:
 Usage:
 
 <br/>
-1. Run the Application
+1. Run the Application:
+  <br/>
   `python waveform_wizard.pyw`
   <br/>
   <br/>
